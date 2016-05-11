@@ -775,7 +775,7 @@ console.log(result);
 
 truthCheck([{"single": "yes"}], "single");
 
-
+..
 
 
 
